@@ -1,2 +1,3 @@
 # JS_Clock
-JavaScript learning project 1
+JavaScript Learning Project 1
+*Simple Clock*
